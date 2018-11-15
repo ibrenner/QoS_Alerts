@@ -33,3 +33,8 @@ optional arguments:
 ```
 python qos_imx_alert.py -c .testing.sec
 ```
+
+example alert on infinibox:
+![alt text](
+        QoS_Alerts/Screen Shot 2018-11-15 at 14.35.47.jpg
+       "alert")
