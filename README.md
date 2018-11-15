@@ -34,6 +34,7 @@ optional arguments:
 python qos_imx_alert.py -c .testing.sec
 ```
 
+
 example alert on infinibox:
 ![alt text](
         https://raw.githubusercontent.com/ibrenner/QoS_Alerts/master/Screen%20Shot%202018-11-15%20at%2014.35.47.jpg
