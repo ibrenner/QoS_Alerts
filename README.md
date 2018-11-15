@@ -1,5 +1,7 @@
 # QoS_Alerts
 Alerting on volumes that are near QoS limits
+The user sets a threshold for alert and warning, and upon execution the script samples from infinimetrics all the volumes that are assigned to a QoS policy. If the amount of IOPS for any of the volumes is reaching one of the thresholds it will create an event in the infinibox.
+If a QoS policy has burst factor enabled, the limit is being being adjusted and checked accordingly.
 
 # qos_imx_alert
 ## Prerequisites
